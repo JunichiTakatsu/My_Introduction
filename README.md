@@ -25,5 +25,6 @@ As many PhD candidate students, I was also not financially stable at all. This d
 * During this period, I experienced following;
 ### Enhancing programming skills
 To apply AIs with neural networks into actual work scenes, I started using Python and PyTorch. These tools allowed me to experience the possibility of those AIs and difficulties. It is weird to say this, but it was like teaching things to babies who are the models made from scratch by myself. After these challenging situations, I have learned to use models which were slightly customized from the ones already available, such like Resnet, VGG, etc. 
+
 ### Negotiation skills
 As a business, I had to deal with customers. Starting from hearing and consulting them, I made a rough skematic of their needs with avilable technologies to show. With this, I started convincing them how this would make their business more easy and cost effective. Sometimes, I even made small demo for them to make a contract come true.
