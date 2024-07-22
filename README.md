@@ -3,7 +3,6 @@
 ## Welcome to this page.
 
 * This webpage is to introduce myself.
-* I have [my LinkedIn](https://www.linkedin.com/in/junichitakatsu/), too.
   
 ## I'm PhD with Engineering
 
@@ -57,3 +56,10 @@
 <p>
   As a business, I had to deal with customers. Starting from hearing and consulting them, I made a rough skematic of their needs with avilable technologies to show. With this, I started convincing them how this would make their business more easy and cost effective. Sometimes, I even made small demo for them to make a contract come true.
 </p>
+
+## Links
+
+* I have [my LinkedIn](https://www.linkedin.com/in/junichitakatsu/).
+* This is [my indeed portfolio](https://profile.indeed.com/p/junichit-7zxazlq).
+* I have another [GitHub account](https://github.com/AiueoABC) for playing.
+* Here is [My abstaract for PhD Thesis](http://hdl.handle.net/11094/72392).
