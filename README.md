@@ -54,8 +54,24 @@
 ### Negotiation skills
 
 <p>
-  As a business, I had to deal with customers. Starting from hearing and consulting them, I made a rough skematic of their needs with avilable technologies to show. With this, I started convincing them how this would make their business more easy and cost effective. Sometimes, I even made small demo for them to make a contract come true.
+  As a business, I had to deal with customers. Starting from hearing and consulting them, I made a rough skematic of their needs with avilable technologies to show. With this, I started convincing them how this would make their business more easy and cost effective. Sometimes, I even made small demo for them to make my contract come true.
 </p>
+
+### IoT skills
+
+<p>
+  To provide customers a small demo, I loved to use small computers, such like Arduino and RaspberryPi. Those were a perfect tiny computer to override already-existing system to give an example what customers like to see, such like a small robot capable of communicating with computers running customized system using customized AI mdoels. Also, I learned to combine them with smartphones which had customized apps developped using Kotlin. Those apps allowed me to bring my demo everywhere.
+</p>
+
+### Handyman skills
+
+<p>
+  For the purpose of making demos, I needed to analyze where signal running to control machines, separate them from the original circuit, and rewire them into small computers. To accomplish these, I obtained skills of wiring, soldering, signal analysis, and packaging craft.
+</p>
+
+## I worked as a Bicycle Shop Staff & Mechanic
+
+* I was working at CYCLE BASE asahi Izumiya Yao, which is the branch store of ASAHI CO., LTD.,  located in Osaka, Japan.
 
 ## Links
 
